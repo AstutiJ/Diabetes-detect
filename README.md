@@ -7,7 +7,11 @@
 
 ---
 
-![App Screenshot](images/diabetes_app_screenshot.png)
+## Demo
+
+![Demo Screenshot](Demo/Demo.png)
+![Demo Screenshot 2](Demo/Demo2.png)
+
 
 A **Diabetes Prediction Web App** built using **Streamlit** and a **K-Nearest Neighbors (KNN)** machine learning model.  
 The app predicts whether a person is likely to have diabetes based on key health parameters like glucose level, BMI, blood pressure, etc.
